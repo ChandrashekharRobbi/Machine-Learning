@@ -2,7 +2,7 @@
 
 HEART_DISEASE_ANALYSIS
 
-In this project i have built an model by using various sklearn libraries to predict whether the person having a heart disease or not by using few medical parameters.
+In this project i have built an model by using various sklearn libraries to predict whether a person have heart disease or not by using few medical parameters.
 
 I have builted model by using various steps right from the cleaning of the data till the model predictions.
 
@@ -26,7 +26,7 @@ In this project i have used all the libraries available for the classification p
 3. Linear SVC
 4. KNN Neighbours Classifier
 
-While testing all the models Logistic Regression aims for the highest accuracy than other 3 model.
+While testing all the models **Logistic Regression** aims for the highest accuracy than other 3 model.
 
 **For further improving the trained model**
 
