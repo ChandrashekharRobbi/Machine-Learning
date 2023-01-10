@@ -7,12 +7,12 @@ In this project i have built an model by using various sklearn libraries to pred
 I have builted model by using various steps right from the cleaning of the data till the model predictions.
 
 The Steps i have gone through is :
-* 1. Getting Data Ready ( Data Preprocessing )
-* 2. Picking a model suitable to our problem ( in this case classification is our problem)
-* 3. Fit the model to the data to make predictions
-* 4. Evaluate the model
-* 5. Imporve through Experimentation
-* 6. Save and reload the trained model
+1. Getting Data Ready ( Data Preprocessing )
+2. Picking a model suitable to our problem ( in this case classification is our problem)
+3. Fit the model to the data to make predictions
+4. Evaluate the model
+5. Imporve through Experimentation
+6. Save and reload the trained model
 
 I have also used matplotlib for clear visualization between data and to compare the common relationship between different columns of the dataset
 
